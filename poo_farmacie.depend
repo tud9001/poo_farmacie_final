@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1578519669 source:c:\users\tudor\desktop\programe cand chiar lucrez la info lol probabil e gol\poo_farmacie\main.cpp
+	<iostream>
+	<vector>
+	<tuple>
+	<cstring>
+	"gestionare.h"
+	"structura_date.h"
+	"farmacii.h"
+
+1578519820 c:\users\tudor\desktop\programe cand chiar lucrez la info lol probabil e gol\poo_farmacie\gestionare.h
+	"structura_date.h"
+	"farmacii.h"
+	<iostream>
+	<vector>
+	<tuple>
+	<cstring>
+
+1578515276 c:\users\tudor\desktop\programe cand chiar lucrez la info lol probabil e gol\poo_farmacie\structura_date.h
+	"farmacii.h"
+	<iostream>
+	<vector>
+	<tuple>
+	<cstring>
+
+1578519183 c:\users\tudor\desktop\programe cand chiar lucrez la info lol probabil e gol\poo_farmacie\farmacii.h
+	<iostream>
+	<vector>
+	<tuple>
+	<cstring>
+
